@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<button onclick="myFunction(1)">mono sprite</button>
+		<button onclick="myFunction(2)">multicolor sprite RGB0</button>
+		<button onclick="myFunction(3)">multicolor sprite CROMA</button>
+		<button onclick="myFunction(4)">note text</button>
+		<iframe id="myframe" src="note.html" width="100%" height="1000"></iframe>
+		<p>Click the button to change the src attribute in the iframe.</p>
+		<script>
+			function myFunction(a) {
+				if(a==1){document.getElementById("myframe").src= "sprite.html";}
+				if(a==2){document.getElementById("myframe").src= "msprite.html";}
+				if(a==3){document.getElementById("myframe").src= "mspriteB.html";}
+				if(a==4){document.getElementById("myframe").src= "note.html";}
+			}
+		</script>
+	</body>
+</html>
