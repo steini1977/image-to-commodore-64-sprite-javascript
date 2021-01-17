@@ -7,3 +7,5 @@ All scripts is tested in Google Chrome internet browser. The results might be di
 Skripts used in this project is p5js and javascripts language(html is a browser file).
 work best with images that are rich with red,green,blue colours. Black becomes transculiant.
 Good luck.
+UPDATE:
+New files are uploaded, old is removed
