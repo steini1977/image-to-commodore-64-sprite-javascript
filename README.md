@@ -9,3 +9,4 @@ work best with images that are rich with red,green,blue colours. Black becomes t
 Good luck.
 UPDATE:
 New files are uploaded, old is removed
+index.html is the main-file to open.
