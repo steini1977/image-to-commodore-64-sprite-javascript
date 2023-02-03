@@ -1,4 +1,5 @@
 # image-to-commodore-64-sprite-javascript
+[New improved version on my web page steini1977.github.io]
 Javascript with html to make spritedata from image files (jpg/png/gif) (tiff does not go well in this)
 You might have to drop the image on the gray field, twice.
 msprt.js is the java skript file (must be in the same folder that msprt.html is.
